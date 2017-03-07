@@ -1,0 +1,40 @@
+###
+# Regulators
+#
+#
+# Information about regulators that oversee consumer complaints about health insurance companies.
+#
+# Data should be in the following format:
+#
+# - name: "Full name of the organization"
+#   type:
+#      - choose at least one of the types listed below
+#   complaint url:
+#   tel:
+#   description:
+#   complaint data:
+#   jurisdiction:
+#
+#
+# List of types:
+# - attorney general
+# - commission
+# - state government agency
+#
+###
+
+- name: "Ohio Department of Insurance"
+  type:
+    - state government agency
+  url: "https://gateway.insurance.ohio.gov/UI/ODI.CS.Public.UI/Complaint.mvc/DisplayConsumerComplaintForm"
+  description: "The Ohio Department of Insurance takes consumer complaints about health insurance providers through the online form or on paper."
+  complaint data:
+  state: OH 
+  
+- name: "DC Department of Insurance, Securities and Banking"
+  type:
+    - state government agency
+  url: "http://dcforms.dc.gov/webform/consumer-complaint-form-disb-0"
+  description: "The DC Department of Insurance, Securities and Banking takes consumer complaints about health insurance providers through the online form or on paper."
+  complaint data:
+  state: DC
