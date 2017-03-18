@@ -24,6 +24,7 @@ MD,Maryland Insurance Administration,http://insurance.maryland.gov/Consumer/Docu
 MA,Massachusetts Office of Consumer Affairs and Business Regulation,http://www.mass.gov/ocabr/docs/doi/consumer/css-complaint-form.pdf
 MI,Michigan Department of Insurance and Financial Services,http://www.michigan.gov/documents/lara/FIS_2257_Brochure_-_for_web_361289_7.pdf
 MN,Minnesota Department of Commerce,https://mn.gov/commerce/consumers/file-a-complaint/
+MP,Northern Mariana Islands,https://eapps.naic.org/cis/fileComplaintForm.do?complaintState=MP&Mode=EMAIL
 MS,Missippi Insurance Department,http://www.mid.ms.gov/consumers/online-complaint.aspx
 MO,Missouri Department of Insurance,https://www.insurance.mo.gov/consumers/complaints/consumerComplaint.php
 MT,Montana Commissioner of Securities and Insurance,https://sbs.naic.org/solar-web/pages/public/onlineComplaintForm/onlineComplaintForm.jsf?state=MT&dswid=-4344
@@ -38,7 +39,7 @@ ND,North Dakota Insurance Department,http://www.nd.gov/ndins/consumers/complaint
 OK,Oklahoma Insurance Department,https://sbs-ok.naic.org/Lion-Web/servlet/org.naic.sbs.ext.onlineComplaint.OnlineComplaintCtrl?spanishVersion=N
 OR,Oregon Division of Financial Regulation,https://sbs.naic.org/solar-web/pages/public/onlineComplaintForm/onlineComplaintForm.jsf?state=or&dswid=-8401
 PA,Pennsylvania Insurance Department,http://www.insurance.pa.gov/Consumers/File%20a%20Complaint/Pages/default.aspx
-RI,,
+RI,Rhode Island and Providence Plantations Department of Business Regulations,https://sbs.naic.org/solar-web/pages/public/onlineComplaintForm/onlineComplaintForm.jsf?state=RI&dswid=-4616#_ga=1.105625667.1572612773.1489170338
 SC,South Carolina Department of Insurance,https://online.doi.sc.gov/eng/public/consumer/complaint.aspx
 SD,South Dakota Department of Labor and Regulation,http://dlr.sd.gov/insurance/doi_complaint.aspx
 TN,Tennessee Department of Commerce and Insurance,https://sbs-tn.naic.org/Lion-Web/servlet/org.naic.sbs.ext.onlineComplaint.OnlineComplaintCtrl?spanishVersion=N
@@ -53,8 +54,5 @@ WY,Wyoming Department of Insurance,http://doi.wyo.gov/consumers/consumer-request
 AS,American Samoa Department of Insurance,(684) 633-4163
 FM,Federated States of Micronesia Insurance Board,http://www.fsminsuranceboard.com/contacts.asp
 GU,Guam Department of Revenue and Taxation Regulatory Division,https://www.guamtax.com/about/regulatory.html
-MH,,
-MP,,
-PW,,
-PR,,
-VI,,
+PR,Puerto Rico,https://eapps.naic.org/cis/fileComplaintForm.do?complaintState=PR&Mode=EMAIL
+VI,Puerto Rico,https://eapps.naic.org/cis/fileComplaintForm.do?complaintState=VI&Mode=EMAIL
